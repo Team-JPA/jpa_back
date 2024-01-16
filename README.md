@@ -1,2 +1,2 @@
-# jpa_back
-JPA Project backend
+# maummode_back
+maummode Project backend
